@@ -2,7 +2,7 @@
 
 <!-- ░░░ Animated typing banner (Option B's motion) ░░░ -->
 <a href="https://github.com/GoblinRules">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&pause=1200&color=22D3EE&center=true&vCenter=true&width=640&height=45&lines=I+build+the+tools+that+run+in+the+background.;You+don't+see+them+working.;That's+the+point." alt="typing banner" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&pause=1200&color=FF7A00&center=true&vCenter=true&width=640&height=45&lines=I+build+the+tools+that+run+in+the+background.;You+don't+see+them+working.;That's+the+point." alt="typing banner" />
 </a>
 
 # `GoblinRules`
@@ -14,11 +14,11 @@
 <br>
 
 <!-- ░░░ Tech badges (Option A) ░░░ -->
-![Python](https://img.shields.io/badge/Python-3572A5?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-f1e05a?style=for-the-badge&logo=javascript&logoColor=black)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-1d1d1d?style=for-the-badge&logo=linux&logoColor=white)
-![WordPress](https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)
+![Python](https://img.shields.io/badge/Python-FF7A00?style=for-the-badge&logo=python&logoColor=black)
+![JavaScript](https://img.shields.io/badge/JavaScript-00E5FF?style=for-the-badge&logo=javascript&logoColor=black)
+![Docker](https://img.shields.io/badge/Docker-2E7BFF?style=for-the-badge&logo=docker&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FFB000?style=for-the-badge&logo=linux&logoColor=black)
+![WordPress](https://img.shields.io/badge/WordPress-FF2E97?style=for-the-badge&logo=wordpress&logoColor=white)
 
 </div>
 
@@ -27,12 +27,70 @@
 <div align="center">
 
 <!-- ░░░ Stat cards (Option A) — auto-updating ░░░ -->
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=GoblinRules&show_icons=true&hide_border=true&bg_color=0D1117&title_color=22D3EE&icon_color=38BDF8&text_color=9198a1&include_all_commits=true" alt="stats" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GoblinRules&layout=compact&hide_border=true&bg_color=0D1117&title_color=22D3EE&text_color=9198a1&langs_count=6" alt="top languages" />
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=GoblinRules&show_icons=true&hide_border=true&bg_color=05060A&title_color=FF7A00&icon_color=00E5FF&text_color=c9d1d9&rank_icon=github" alt="stats" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GoblinRules&layout=compact&hide_border=true&bg_color=05060A&title_color=00E5FF&text_color=c9d1d9&langs_count=6" alt="top languages" />
 
 <br><br>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=GoblinRules&hide_border=true&background=0D1117&ring=38BDF8&fire=22D3EE&currStreakLabel=22D3EE&stroke=30363d&sideLabels=9198a1&dates=9198a1&currStreakNum=e6edf3&sideNums=e6edf3" alt="streak" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=GoblinRules&hide_border=true&background=05060A&ring=FF7A00&fire=FFB000&currStreakLabel=00E5FF&stroke=2E7BFF&sideLabels=c9d1d9&dates=9198a1&currStreakNum=FF7A00&sideNums=e6edf3" alt="streak" />
+
+</div>
+
+<br>
+
+<div align="center">
+
+<!-- ░░░ Projects showcase — each app's own icon, linked ░░░ -->
+### &#x1F6E0;&#xFE0F;&nbsp; What I'm building
+
+<table>
+  <tr>
+    <td align="center" width="190">
+      <a href="https://github.com/GoblinRules/JetFUEL">
+        <img src="https://raw.githubusercontent.com/GoblinRules/JetFUEL/main/assets/icon.png" width="64" height="64" alt="JetFUEL" /><br />
+        <b>JetFUEL</b>
+      </a><br />
+      <sub>JetKVM × Tailscale setup wizard</sub>
+    </td>
+    <td align="center" width="190">
+      <a href="https://github.com/GoblinRules/TRIP">
+        <img src="https://raw.githubusercontent.com/GoblinRules/TRIP/master/assets/icon_pack/image3_flat_globe_magnifier_256x256.png" width="64" height="64" alt="TRIP" /><br />
+        <b>TRIP</b>
+      </a><br />
+      <sub>Tray app watching your public IP</sub>
+    </td>
+    <td align="center" width="190">
+      <a href="https://github.com/GoblinRules/TextCrate">
+        <img src="https://raw.githubusercontent.com/GoblinRules/TextCrate/main/assets/icon.png" width="64" height="64" alt="TextCrate" /><br />
+        <b>TextCrate</b>
+      </a><br />
+      <sub>Clipboard bridge for remote VMs</sub>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="190">
+      <a href="https://github.com/GoblinRules/SlickClick">
+        <img src="https://raw.githubusercontent.com/GoblinRules/SlickClick/main/assets/icon.png" width="64" height="64" alt="SlickClick" /><br />
+        <b>SlickClick</b>
+      </a><br />
+      <sub>Lightweight Windows auto-clicker</sub>
+    </td>
+    <td align="center" width="190">
+      <a href="https://github.com/GoblinRules/QR-deFuzzer">
+        <img src="https://raw.githubusercontent.com/GoblinRules/QR-deFuzzer/main/assets/icon.png" width="64" height="64" alt="QR-deFuzzer" /><br />
+        <b>QR-deFuzzer</b>
+      </a><br />
+      <sub>Scan QR codes from the system tray</sub>
+    </td>
+    <td align="center" width="190">
+      <a href="https://github.com/GoblinRules/ClearShot">
+        <img src="https://raw.githubusercontent.com/GoblinRules/ClearShot/main/assets/icon.png" width="64" height="64" alt="ClearShot" /><br />
+        <b>ClearShot</b>
+      </a><br />
+      <sub>Screenshot &amp; screen-recording tool</sub>
+    </td>
+  </tr>
+</table>
 
 </div>
 
