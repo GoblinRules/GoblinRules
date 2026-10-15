@@ -1,5 +1,10 @@
 <div align="center">
 
+<!-- ░░░ Hero skull ░░░ -->
+<img src="https://raw.githubusercontent.com/GoblinRules/GoblinRules/main/assets/skull.gif" width="340" alt="" />
+
+<br /><br />
+
 <!-- ░░░ Animated typing banner (Option B's motion) ░░░ -->
 <a href="https://github.com/GoblinRules">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&pause=1200&color=FF7A00&center=true&vCenter=true&width=640&height=45&lines=I+build+the+tools+that+run+in+the+background.;You+don't+see+them+working.;That's+the+point." alt="typing banner" />
