@@ -2,7 +2,7 @@
 
 <!-- ░░░ Animated typing banner (Option B's motion) ░░░ -->
 <a href="https://github.com/GoblinRules">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&pause=1200&color=BC8CFF&center=true&vCenter=true&width=640&height=45&lines=I+build+the+tools+that+run+in+the+background.;You+don't+see+them+working.;That's+the+point." alt="typing banner" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&pause=1200&color=22D3EE&center=true&vCenter=true&width=640&height=45&lines=I+build+the+tools+that+run+in+the+background.;You+don't+see+them+working.;That's+the+point." alt="typing banner" />
 </a>
 
 # `GoblinRules`
@@ -27,12 +27,12 @@
 <div align="center">
 
 <!-- ░░░ Stat cards (Option A) — auto-updating ░░░ -->
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=GoblinRules&show_icons=true&hide_border=true&bg_color=0D1117&title_color=BC8CFF&icon_color=BC8CFF&text_color=9198a1&include_all_commits=true" alt="stats" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GoblinRules&layout=compact&hide_border=true&bg_color=0D1117&title_color=BC8CFF&text_color=9198a1&langs_count=6" alt="top languages" />
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=GoblinRules&show_icons=true&hide_border=true&bg_color=0D1117&title_color=22D3EE&icon_color=38BDF8&text_color=9198a1&include_all_commits=true" alt="stats" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GoblinRules&layout=compact&hide_border=true&bg_color=0D1117&title_color=22D3EE&text_color=9198a1&langs_count=6" alt="top languages" />
 
 <br><br>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=GoblinRules&hide_border=true&background=0D1117&ring=BC8CFF&fire=BC8CFF&currStreakLabel=BC8CFF&stroke=30363d&sideLabels=9198a1&dates=9198a1&currStreakNum=e6edf3&sideNums=e6edf3" alt="streak" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=GoblinRules&hide_border=true&background=0D1117&ring=38BDF8&fire=22D3EE&currStreakLabel=22D3EE&stroke=30363d&sideLabels=9198a1&dates=9198a1&currStreakNum=e6edf3&sideNums=e6edf3" alt="streak" />
 
 </div>
 
