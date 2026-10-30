@@ -26,12 +26,14 @@
 
 <div align="center">
 
-<!-- ░░░ Stat cards (Option A) — auto-updating ░░░ -->
+<!-- Cards generated daily by .github/workflows/profile-cards.yml.
+     Public data only; languages use code bytes in owned, non-fork repositories.
+     No external card-hosting service or personal access token required. -->
 <table>
   <tr>
-    <td valign="middle"><img height="165" src="https://github-readme-stats.vercel.app/api?username=GoblinRules&show_icons=true&hide_border=true&bg_color=05060A&title_color=FF7A00&icon_color=00E5FF&text_color=c9d1d9&hide_rank=true" alt="stats" /></td>
+    <td valign="middle"><img height="165" src="https://raw.githubusercontent.com/GoblinRules/GoblinRules/main/assets/stats/github-stats.svg" alt="stats" /></td>
     <td valign="middle" width="172" align="center"><img width="150" src="https://raw.githubusercontent.com/GoblinRules/GoblinRules/main/assets/skull-ring.gif" alt="" /></td>
-    <td valign="middle"><img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GoblinRules&layout=compact&hide_border=true&bg_color=05060A&title_color=00E5FF&text_color=c9d1d9&langs_count=6" alt="top languages" /></td>
+    <td valign="middle"><img height="165" src="https://raw.githubusercontent.com/GoblinRules/GoblinRules/main/assets/stats/top-languages.svg" alt="top languages" /></td>
   </tr>
 </table>
 

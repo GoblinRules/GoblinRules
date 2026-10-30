@@ -1,0 +1,43 @@
+name: Update profile cards
+
+on:
+  schedule:
+    - cron: '23 6 * * *'
+  workflow_dispatch:
+  push:
+    branches: [main]
+    paths:
+      - scripts/generate_profile_cards.py
+      - .github/workflows/profile-cards.yml
+
+permissions:
+  contents: write
+
+concurrency:
+  group: profile-cards
+  cancel-in-progress: false
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - name: Check out repository
+        uses: actions/checkout@11bd71901bbe5b1630ceea73d27597364c9af683 # v4.2.2
+      - name: Generate SVG cards from public GitHub data
+        env:
+          GH_TOKEN: ${{ github.token }}
+          PROFILE_OWNER: ${{ github.repository_owner }}
+        run: python3 scripts/generate_profile_cards.py --username "$PROFILE_OWNER"
+      - name: Commit updated cards
+        run: |
+          git config user.name 'github-actions[bot]'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          git add assets/stats/*.svg
+          if git diff --cached --quiet; then
+            echo 'Cards are already up to date.'
+            exit 0
+          fi
+          git commit -m 'Refresh profile stats cards'
+          git pull --rebase origin main
+          git push origin HEAD:main
